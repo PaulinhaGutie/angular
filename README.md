@@ -1,2 +1,2 @@
-# angular
-Projeto DIO
+# PROJETO DIO
+Angular
